@@ -1,4 +1,3 @@
-root@97379a192546:~/alx-low_level_programming/0x01-variables_if_else_while# cat > 102-print_comb5.c
 #include <stdio.h>
 #include <stdlib.h>
 /**
@@ -48,4 +47,3 @@ int main(void)
         putchar('\n');
         return (0);
 }
-
